@@ -1,0 +1,70 @@
+body {
+
+  background: rgb(255,0,0);
+  background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,160,0,1) 20%, rgba(255,250,0,1) 40%, rgba(0,255,0,1) 60%, rgba(0,255,255,1) 80%, rgba(255,0,255,1) 100%);
+
+}
+
+hr {
+  border: none;
+  background-color: black;
+  width:45%;
+  height:4px;
+}
+
+#intro1 {
+  font-size:50px;
+}
+
+p {
+  width: 40%;
+}
+
+#title {
+  padding-bottom: 2%
+}
+
+#intro {
+  padding-bottom: 1%
+}
+
+#edu {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 30px
+}
+
+#school {
+  height:25%;
+  width:25%;
+}
+
+#games {
+  height:15%;
+  width:15%;
+  padding-bottom: 2%;
+}
+
+.list-div {
+  margin: 0 auto;
+  width: 35%  ;
+  text-align: center;
+}
+
+.imgs {
+  height : 15%;
+  width: 15%;
+  padding-bottom: 2%;
+}
+
+#end {
+  padding-bottom: 6%;
+}
+
+.foods {
+  font-weight: bold;
+  font-size: 150%
+}
